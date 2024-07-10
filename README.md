@@ -1,10 +1,9 @@
 ### Hello there, I'm Aryan 👋
 
-- 🔭 I’m currently working on developing websites and researching batteries 
-- 🌱 I’m currently learning more JavaSript frameworks, Tailwind CSS, and semantic segmentation
-- 👯 I’m looking to collaborate on a machine-learning project
+- 🔭 I’m majoring in EECS and Business at UC Berkeley through the [M.E.T. Program](https://met.berkeley.edu/)
+- 🌱 I’m currently learning more about deep learning, semantic segmentation, and grinding LeetCode :)
+- 👯 I’m looking to collaborate on ML and finance projects in the startup and VC space
 - 💬 Ask me about starting a blog
-- 📫 How to reach me: email me at bansalaryan1011@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My favorite show is Brooklyn Nine-Nine
+- 📫 Email me at aryanbansal [at] berkeley [dot] edu
+
 
